@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'legendarymotorsport_db',
         'USER': 'postgres',
-        'PASSWORD':'bitch',
+        'PASSWORD':'root',
         'HOST': 'localhost',
     }
 }
